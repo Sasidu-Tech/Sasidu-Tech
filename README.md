@@ -1,4 +1,4 @@
-# Sasidu-Tech # Hi 👋 I'm Sasindu Wishshanka
+# Sasidu-Tech # Hi 👋 I'm Sasidu Wishshanka
 
 🎓 BICT Student - Rajarata University of Sri Lanka
 
