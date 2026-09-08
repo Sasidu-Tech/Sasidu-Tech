@@ -102,7 +102,7 @@ AI-based Cyber Security Research
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@Sasidu-Tech](https://github.com/Sasidu-Tech)
-- 💼 LinkedIn: [Sasidu Wishshanka](https://www.linkedin.com/in/SasiduWishshanka/)
+- 💼 LinkedIn: [Sasidu Wishshanka](https://www.linkedin.com/in/Sasidu-Wishshanka/)
 
 ---
 
