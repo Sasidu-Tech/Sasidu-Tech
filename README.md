@@ -29,13 +29,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,arduino,raspberrypi,linux,git,github,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=wifi,windows,ubuntu,docker,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,arduino,linux,git,github,vscode" />
 
 </p>
 
@@ -63,25 +57,19 @@
 ## 📚 Currently Learning
 
 ```text
-🌐 Computer Networking
-        │
-        ▼
+🌐 NETWORKING
+      ↓
 🎓 CCNA
-        │
-        ▼
-🐧 Linux + 🐍 Python
-        │
-        ▼
-🔐 Cyber Security
-        │
-        ▼
-🛡️ Network Security
-        │
-        ▼
+      ↓
+🐧 LINUX + 🐍 PYTHON
+      ↓
+🔐 CYBER SECURITY
+      ↓
+🛡️ NETWORK SECURITY
+      ↓
 🚨 IDS / NIDS
-        │
-        ▼
-🤖 AI-based Cyber Security Research
+      ↓
+🤖 AI-BASED CYBER SECURITY
 ```
 
 ---
@@ -116,36 +104,6 @@
 
 ---
 
-## 🧠 My Cyber Security Journey
-
-<p align="center">
-
-```text
-        🌐 NETWORKING
-              │
-              ▼
-            🎓 CCNA
-              │
-              ▼
-        🐧 LINUX + PYTHON
-              │
-              ▼
-        🔐 CYBER SECURITY
-              │
-              ▼
-       🛡️ NETWORK SECURITY
-              │
-              ▼
-          🚨 IDS / NIDS
-              │
-              ▼
-      🤖 AI + CYBER SECURITY
-```
-
-</p>
-
----
-
 ## 🔬 What I'm Building
 
 <p align="center">
@@ -153,8 +111,6 @@
 `ESP32` ⚡ `IoT` 📡 `Networking` 🌐 `Security` 🔐 `IDS` 🛡️ `Python` 🐍 `Linux` 🐧
 
 </p>
-
-I'm continuously building small practical projects to understand how **hardware, networking and security** work together.
 
 ---
 
@@ -180,16 +136,6 @@ I'm continuously building small practical projects to understand how **hardware,
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sasidu-Tech/Sasidu-Tech/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -203,21 +149,21 @@ I'm continuously building small practical projects to understand how **hardware,
 ## 📈 Learning Philosophy
 
 ```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-         TEST
-          ↓
-        BREAK
-          ↓
-        DEBUG
-          ↓
-        SECURE
-          ↓
-       IMPROVE
-          ↓
-        REPEAT 🔐
+       LEARN
+         ↓
+       BUILD
+         ↓
+        TEST
+         ↓
+       BREAK
+         ↓
+       DEBUG
+         ↓
+       SECURE
+         ↓
+      IMPROVE
+         ↓
+       REPEAT 🔐
 ```
 
 ---
@@ -230,7 +176,7 @@ I'm continuously building small practical projects to understand how **hardware,
 <img src="https://img.shields.io/badge/GitHub-Sasidu--Tech-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Sasidu-Wishshanka/">
+<a href="https://www.linkedin.com/in/sasidu-wishshanka-434938428">
 <img src="https://img.shields.io/badge/LinkedIn-Sasidu%20Wishshanka-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
