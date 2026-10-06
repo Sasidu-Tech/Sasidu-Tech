@@ -180,6 +180,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Sasidu%20Wishshanka-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://www.youtube.com/@sasiduwishshanka">
+<img src="https://img.shields.io/badge/YouTube-Sasidu%20Wishshanka-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
 ---
