@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sasidu Wishshanka
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BICT+Undergraduate+%7C+Rajarata+University;Networking+%7C+Cyber+Security+%7C+IoT;ESP32+%7C+Arduino+%7C+Python+%7C+Linux;Building+%E2%80%A2+Testing+%E2%80%A2+Securing+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=BICT+Undergraduate+%7C+Rajarata+University;Aspiring+Embedded+Systems+Engineer;Embedded+Systems+%7C+IoT+%7C+Robotics;ESP32+%7C+Arduino+%7C+STM32+%7C+C%2FC%2B%2B;Building+%E2%80%A2+Testing+%E2%80%A2+Debugging+%E2%80%A2+Securing+%F0%9F%94%A7" />
 </p>
 
 <p align="center">
@@ -15,13 +15,15 @@
 
 🎓 **BICT Undergraduate – Rajarata University of Sri Lanka**
 
-💻 Passionate about **Networking, Cyber Security, IoT, Embedded Systems & Robotics**.
+🔧 Aspiring **Embedded Systems Engineer** with a strong interest in **Embedded Systems, IoT, Robotics, Firmware Development, and Embedded Security**.
 
-🔧 I enjoy turning ideas into practical projects using **ESP32, ESP8266, Arduino, Linux and Python**.
+💻 I enjoy turning ideas into practical solutions by combining **hardware and software** using microcontrollers, sensors, communication modules, and programming technologies.
 
-🔐 My long-term goal is to build strong skills in **Network Engineering & Cyber Security**, while exploring **AI-based Network Security and IDS technologies**.
+⚡ I work with **ESP32, Arduino, C/C++, Python, Linux, and IoT technologies**, while continuously exploring **STM32, ARM-based systems, communication protocols, and real-time embedded systems**.
 
-> 💡 **Build it → Test it → Break it → Secure it → Improve it**
+🔐 I also have a strong interest in **Networking, Cyber Security, and IoT Security**, especially where they connect with embedded and connected devices.
+
+> 💡 **Build it → Test it → Debug it → Secure it → Improve it**
 
 ---
 
@@ -39,16 +41,16 @@
 
 <table align="center">
 <tr>
-<td align="center">🌐<br><b>Networking</b></td>
-<td align="center">🔐<br><b>Cyber Security</b></td>
-<td align="center">🛡️<br><b>Network Security</b></td>
+<td align="center">🔌<br><b>Embedded Systems</b></td>
+<td align="center">⚙️<br><b>Firmware Development</b></td>
 <td align="center">📡<br><b>IoT</b></td>
+<td align="center">🤖<br><b>Robotics</b></td>
 </tr>
 <tr>
-<td align="center">🤖<br><b>Robotics</b></td>
-<td align="center">🔌<br><b>Embedded Systems</b></td>
-<td align="center">🐧<br><b>Linux</b></td>
-<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🔧<br><b>Microcontrollers</b></td>
+<td align="center">🔐<br><b>Embedded Security</b></td>
+<td align="center">🌐<br><b>Networking</b></td>
+<td align="center">🐧<br><b>Embedded Linux</b></td>
 </tr>
 </table>
 
@@ -57,49 +59,54 @@
 ## 📚 Currently Learning
 
 ```text
-🌐 NETWORKING
+💻 C / C++
       ↓
-🎓 CCNA
+🔌 MICROCONTROLLERS
       ↓
-🐧 LINUX + 🐍 PYTHON
+⚡ ESP32 + STM32
       ↓
-🔐 CYBER SECURITY
+🔄 UART / I²C / SPI / CAN
       ↓
-🛡️ NETWORK SECURITY
+⚙️ RTOS / FreeRTOS
       ↓
-🚨 IDS / NIDS
+🐧 EMBEDDED LINUX
       ↓
-🤖 AI-BASED CYBER SECURITY
+📡 IoT & CONNECTED SYSTEMS
+      ↓
+🔐 EMBEDDED & IoT SECURITY
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔌 Embedded Systems & IoT
+
+* 🌱 Smart Agriculture IoT System
+* 🅿️ Smart Parking System using ESP32
+* 🔋 Li-Ion Battery Voltage Measurement using ESP32
+* 🚪 RFID-Based Smart Door Lock
+* 📊 ESP32 Sensor Monitoring Systems
+* 🌐 ESP32 Web-Based Control Systems
+* 📡 Wireless IoT Applications
+
 ### 🤖 Robotics
 
-* ⚖️ Self Balancing Robot
-* 🚗 Obstacle Avoiding Robot
+* ✋ Wireless Gesture Controlled 4-Wheel Robot Car
 * 📍 Line Following Robot
-* ✋ Wireless Gesture Controlled Robot Car
+* 🚗 Obstacle Avoiding Robot
+* ⚖️ Self-Balancing Robot
+* 🤖 Sensor-Based Robotic Systems
 
-### 📡 IoT & Embedded Systems
-
-* 🏠 Smart Home Automation
-* 🌱 Smart Agriculture IoT System
-* 🅿️ Smart Parking System
-* 🌐 ESP8266 Web Control System
-* 📡 ESP32 Radar System
-* 🌡️ ESP32 Sensor Mini Projects
-
-### 🔐 Cyber Security & Networking
+### 🌐 Networking & Embedded Security
 
 * 📶 ESP32 Wi-Fi Scanner
-* 📊 Network Status Monitor
+* 📊 ESP32 Network Status Monitor
 * 🚨 Unauthorized Device Detector
 * 🍯 ESP32 Honeypot
 * 🛡️ ESP32 Mini IDS
-* 🔎 Network Intrusion Detection & Security Monitoring
+* 🔐 Secure IoT Gateway
+* 🔎 IP Address Information Tool
 * 🌐 Cisco VLAN & Inter-VLAN Routing Labs
 
 ---
@@ -108,9 +115,39 @@
 
 <p align="center">
 
-`ESP32` ⚡ `IoT` 📡 `Networking` 🌐 `Security` 🔐 `IDS` 🛡️ `Python` 🐍 `Linux` 🐧
+`C/C++` 💻
+`ESP32` ⚡
+`STM32` 🔌
+`IoT` 📡
+`Robotics` 🤖
+`FreeRTOS` ⚙️
+`Embedded Linux` 🐧
+`Networking` 🌐
+`Embedded Security` 🔐
 
 </p>
+
+---
+
+## 🧠 My Engineering Approach
+
+```text
+        IDEA
+          ↓
+       DESIGN
+          ↓
+        BUILD
+          ↓
+        TEST
+          ↓
+       DEBUG
+          ↓
+       SECURE
+          ↓
+       IMPROVE
+          ↓
+        REPEAT 🔧
+```
 
 ---
 
@@ -146,6 +183,28 @@
 
 ---
 
+## 🎯 Career Goal
+
+My goal is to become a skilled **Embedded Systems Engineer**, specializing in:
+
+```text
+🔌 Embedded Systems
+      +
+💻 Firmware Development
+      +
+⚡ Microcontrollers
+      +
+📡 IoT
+      +
+⚙️ Real-Time Systems
+      +
+🔐 Embedded Security
+```
+
+I aim to build reliable, efficient, secure, and practical embedded systems that solve real-world problems.
+
+---
+
 ## 📈 Learning Philosophy
 
 ```text
@@ -154,8 +213,6 @@
        BUILD
          ↓
         TEST
-         ↓
-       BREAK
          ↓
        DEBUG
          ↓
@@ -190,10 +247,10 @@
 
 <p align="center">
 
-### ⚡ Building the future with Embedded Systems + Networking + Security
+### ⚡ Building the Future with Embedded Systems + IoT + Security
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
 
 </p>
 
-> 🔐 **Learn → Build → Test → Secure → Repeat**
+> 🔧 **Learn → Build → Test → Debug → Secure → Improve**
